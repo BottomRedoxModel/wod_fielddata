@@ -1,0 +1,6 @@
+*.txt
+*.nc
+*.zip
+boundary_data/
+boundary_data_2/
+
